@@ -1,5 +1,5 @@
 ![Git Icona](./IMG/Github.jpeg)
-
+![Git Icona](./IMG/Linux.jpeg)
 
 # Settare ambiente Linux per Git
 1. Installare git sulla macchina con `sudo apt install git`
